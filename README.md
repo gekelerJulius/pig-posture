@@ -3,6 +3,8 @@ PigPose
 
 Compact training code for the Kaggle multi-view pig posture challenge.
 
+<img src="example-img.png" alt="Face Landmarks" width="400"/>
+
 The current training path intentionally favors a simple strong baseline over
 experiment orchestration. It trains a ConvNeXt-Tiny crop classifier by default with:
 
