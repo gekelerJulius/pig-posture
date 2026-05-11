@@ -1,7 +1,7 @@
 PigPose
 =======
 
-Compact training code for the Kaggle multi-view pig posture challenge.
+Compact training code for the Kaggle multi-view pig posture challenge [Multi-view Pig Posture Recognition](https://www.kaggle.com/competitions/multi-view-pig-posture-recognition) where i achieved Rank 18 of 236 with a Macro-F1 Score of 0,831 as of 11.05.2026.
 
 <img src="example-img.png" alt="Pig posture recognition example" width="400"/>
 
